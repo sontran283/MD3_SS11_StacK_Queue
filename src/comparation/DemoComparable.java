@@ -17,6 +17,5 @@ public class DemoComparable {
 
         System.out.println(s1.compareTo(s2) == 0 ?
                 "s1 == s2" : (s1.compareTo(s2) > 0 ? "s1>s2" : "s1<s2"));
-
     }
 }

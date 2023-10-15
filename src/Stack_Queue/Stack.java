@@ -39,7 +39,7 @@ public class Stack {
     }
 
     class stack {
-        private List<Integer> list = new ArrayList<Integer>();
+        private List<Integer> list = new ArrayList<>();
 
         public void push(Integer integer) {
             list.add(integer);
